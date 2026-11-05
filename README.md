@@ -1,5 +1,8 @@
-## Hi there 👋
+Soy Isabella
 
+Estudiante de Ingeniería Industrial en la UAO.
+
+- 🌱 Estoy aprendiendo Python
 <!--
 **isabellacaro-stack/isabellacaro-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
